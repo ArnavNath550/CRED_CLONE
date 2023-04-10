@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 My Cred Clone
-![Preview](public/assets/readme/cred_clone_preview.png)
+![Preview](https://github.com/ArnavNath550/CRED_CLONE/blob/main/public/assets/cred_clone_preview.png?raw=true)
 
 
 # Check out
